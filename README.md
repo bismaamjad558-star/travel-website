@@ -46,6 +46,13 @@ Luxury-Travel-Website/
 - Mobile-First Development
 - JavaScript DOM Manipulation
 
+## Screenshots/
+## Desktop View
+Screenshots/Desktop.png
+## Mobile View
+Screenshots/mobile.png
+
+
 ## 👩‍💻 Developed By
 **Bisma Amjad**
 
