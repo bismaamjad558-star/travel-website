@@ -30,13 +30,15 @@ The website is fully responsive and optimized for:
 
 ## 📂 Project Structure
 ```
-Luxury-Travel-Website/
+Travel-Website/
 │── index.html
 │── style.css
 │── script.js
 │── images/
+│── Screenshots/
+│   ├── desktop.png
+│   └── mobile.png
 └── README.md
-```
 
 ## 🎯 Learning Outcomes
 - Responsive Web Design
